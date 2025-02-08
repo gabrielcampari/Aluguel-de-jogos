@@ -19,10 +19,14 @@ Este é um projeto de uma plataforma de aluguel de jogos online, desenvolvido ut
 
 ```bash
 /
+|-- index.html  # Página inicial da plataforma
+|-- catalog.html  # Catálogo de jogos
 |-- img  # Imagens dos jogos
 |-- css   # Estilos da aplicação
+|   |-- reset.css
+|   |-- main.css 
 |-- js   # Lógica do aluguel e interação
-|-- index.html  # Página inicial da plataforma
+|   |-- app.js
 ```
 
 ## Melhorias Futuras
