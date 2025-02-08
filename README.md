@@ -12,4 +12,23 @@ Este é um projeto de uma plataforma de aluguel de jogos online, desenvolvido ut
    ```bash
    git clone https://github.com/seu-usuario/aluguel-jogos.git
 2. Abra o código e após isso abra o arquivo index.html no seu navegador.
+   
 3. Navegue pelo catálogo e selecione um jogo para alugar.
+
+##
+
+```bash
+/
+|-- img  # Imagens dos jogos
+|-- css   # Estilos da aplicação
+|-- js   # Lógica do aluguel e interação
+|-- index.html  # Página inicial da plataforma
+```
+
+## Melhorias Futuras
+
+Aumento no catálogo de jogos;
+
+Cadastro e login de usuários;
+
+Aluguel por períodos selecionados.
